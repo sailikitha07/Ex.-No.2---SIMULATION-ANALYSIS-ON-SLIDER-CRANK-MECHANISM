@@ -47,8 +47,8 @@
 ![Screenshot 2025-04-29 221617](https://github.com/user-attachments/assets/70ad105c-8331-4a20-b31b-d3d064c122f3)
 ![Screenshot 2025-04-29 221558](https://github.com/user-attachments/assets/3b5251ed-8150-44a8-81fc-cf68ef103015)
 
-### Name:
-### Register Number: 
+### Name: CHOLIMGAPURAM SAI LIKITHA
+### Register Number: 212224230046
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
